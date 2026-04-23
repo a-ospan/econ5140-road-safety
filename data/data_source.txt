@@ -1,0 +1,8 @@
+U.S. Accidents Dataset (2016–2023)
+
+Source:
+https: //www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+This project uses a Texas sample of 20,000 observations for estimation.
+
+Raw dataset files are not included in this repository due to file size limitations.
